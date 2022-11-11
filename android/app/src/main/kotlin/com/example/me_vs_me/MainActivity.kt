@@ -1,4 +1,4 @@
-package com.example.me_vs_me
+package com.me-vs-me.me-vs-me
 
 import io.flutter.embedding.android.FlutterActivity
 
